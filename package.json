@@ -1,0 +1,25 @@
+{
+  "name": "ismith-palindrome",
+  "version": "0.1.1",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanislost/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "ivan",
+    "smith",
+    "practice"
+  ],
+  "author": "Ivan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanislost/palindrome/issues"
+  },
+  "homepage": "https://github.com/Ivanislost/palindrome#readme"
+}
